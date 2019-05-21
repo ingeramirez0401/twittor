@@ -10,7 +10,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 //2. declaro el appshell que tendra todos los elementos necesarios para el funcionamiento del sitio
 
 const APP_SHELL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
